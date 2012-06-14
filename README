@@ -1,0 +1,16 @@
+Test App for openCV to run in c++
+
+Usage:
+
+http://sourceforge.net/projects/opencvlibrary/files/opencv-android/2.4.1/OpenCV-2.4.1-android-bin.tar.bz2/download
+
+Unzip and import OpenCV-2.4.1 project
+Reference Project in Eclipse
+
+have fun ;)
+
+Features
+-Use of Canny Edge detection
+
+Planned Features:
+- feature detection from silhouette
